@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+requests
+yt-dlp
+phonenumbers
+qrcode
+Pillow
