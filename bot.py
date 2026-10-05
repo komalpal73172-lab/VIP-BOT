@@ -28,7 +28,7 @@ def run_server():
 threading.Thread(target=run_server, daemon=True).start()
 
 # ================= Bot Configuration =================
-BOT_TOKEN = "APNA_BOT_TOKEN_YAHAN_RAKHEIN"
+BOT_TOKEN = "7002494152:AAFaAJUxqV0Ah5KX39YrLYn4R8BeufncIUg"
 DARKX_KEY = "Lifetime"
 IFSC_API_URL = "https://ifsc.razorpay.com/"
 
